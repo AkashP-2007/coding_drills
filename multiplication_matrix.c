@@ -50,6 +50,10 @@ int main()
         }
         printf("\n");
     }
-	}
+    }
+    else
+    {
+	printf("Multiplication is not possible!");
+    }
     return 0;
 }
